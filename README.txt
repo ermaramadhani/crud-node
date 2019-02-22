@@ -22,5 +22,8 @@ with header x-access-token (token from point 2)
 
 
 
+(I tested it on Postman)
+
+
 
 Erma Ramadhani
